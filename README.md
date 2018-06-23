@@ -3,7 +3,7 @@
 <h3>Description</h3>
 <br />
 <ol>
-	<li>Look at wiki page for screenshots.</li>
+	<li><a href="https://github.com/HH95/Open-Source-Python-POS-and-Accounting-Software/wiki">Screenshots</a></li>
 	<li>This software is written using Python 3 and powered by MySQL.</li>
 	<li>It has so far been tested on Linux.</li>
 </ol>
