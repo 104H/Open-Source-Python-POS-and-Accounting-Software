@@ -1,0 +1,4 @@
+Open-Source-Python-POS-and-Accounting-Software
+wxPython==4.0.2a1.dev3699+c55bce4
+PyMySQL==0.8.0
+PyInvoice==0.1.0
