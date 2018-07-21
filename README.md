@@ -1,3 +1,4 @@
+# <a href="https://github.com/HH95/HH---POS-Accounting-and-ERP-Software">This project has moved here.</a>
 # Open Source Python POS and Accounting Software
 
 <h3>Description</h3>
